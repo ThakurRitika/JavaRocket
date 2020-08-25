@@ -1,10 +1,11 @@
 body{
 	font-family: 'helvetica','arial', sans-serif;
+	color: white;
 }
 
 .left{
 	position: fixed;
-	background-color: aquamarine;
+	background-image: url('../img/back.gif');
 	width: 50%;
 	height: 100%;
 	top: 0;
@@ -33,7 +34,7 @@ a:hover{
 
 .right{
 	position: fixed;
-	background-color: aliceblue;
+	background-image: url('../img/back.gif');
 	width: 50%;
 	height: 100%;
 	top: 0;
