@@ -1,16 +1,21 @@
 body{
-	background-color: grey;
+	background-image: url('../img/back.gif');
+	color: white;
 }
 
 .cool{
 	visibility: hidden;
 	width: 100px;
 	height: 100px;
-	background-color: green;
+	background-color: white;
 	transition: background-color 1s;
 }
 
 .cool.red{
 	visibility: visible;
 	background-color: red;
+}
+
+.ss{
+	color: white;
 }
