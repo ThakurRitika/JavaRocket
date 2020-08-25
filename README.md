@@ -25,5 +25,5 @@ Click on **Try AGAIN!** to go for the next mission!
 
 ![welldone](https://user-images.githubusercontent.com/65850062/91206860-7c186080-e725-11ea-9913-d75b349bad81.png)
 
-**Want to try it out yourself? Just click here: ** https://thakurritika.github.io/JavaRocket/
+**Want to try it out yourself? Just click here:** https://thakurritika.github.io/JavaRocket/
 
